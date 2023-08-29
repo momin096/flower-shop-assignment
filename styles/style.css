@@ -135,3 +135,48 @@
     font-weight: 700;
     text-decoration-line: underline;
 }
+
+
+/* Discount part */
+.text-primary{
+    color: #E55473;
+}
+
+.discount{
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 100px;
+
+}
+
+.discount-container {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+
+
+}
+
+
+.discount-caption{
+    width: 500px;
+    text-align: center;
+}
+
+
+.discount-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.discount-description{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+/* Social Media Items */

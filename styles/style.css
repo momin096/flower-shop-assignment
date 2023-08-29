@@ -138,11 +138,11 @@
 
 
 /* Discount part */
-.text-primary{
+.text-primary {
     color: #E55473;
 }
 
-.discount{
+.discount {
     background: rgba(229, 84, 115, 0.05);
     margin-top: 100px;
 
@@ -160,18 +160,18 @@
 }
 
 
-.discount-caption{
+.discount-caption {
     width: 500px;
     text-align: center;
 }
 
 
-.discount-title{
+.discount-title {
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-.discount-description{
+.discount-description {
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -180,3 +180,122 @@
 
 
 /* Social Media Items */
+
+.social-media {
+    max-width: 1440px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+
+.social-media-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+
+.social-media-description {
+    width: 400px;
+    margin: 10px auto;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.social-media-pictures {
+    display: flex;
+    gap: 50px;
+}
+
+
+/* get update */
+
+.get-update {
+    text-align: center;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-image: url('../FlowerAsset/Rectangle\ 9.png');
+    height: 448px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.get-update-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+
+.get-update-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+
+#email {
+    margin: 10px 5px 0;
+    padding: 15px;
+    width: 450px;
+    font-size: 20px;
+
+}
+
+
+
+/* Footer section */
+
+
+.footer {
+    background: #111010;
+
+}
+
+
+.footer-container {
+    width: 600px;
+    color: white;
+    height: 500px;
+    max-width: 1440px;
+    margin: 100px auto 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+
+.footer-title {
+    font-size: 48px;
+    font-weight: 800;
+    margin: 25px;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 25px;
+}
+
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 80px;
+}
+
